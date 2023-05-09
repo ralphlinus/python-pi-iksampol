@@ -1,2 +1,2 @@
 # python-pi-iksampol
-!! For Testing Purposes. Ad Astra
+For Testing Purposes. Ad Astra 
