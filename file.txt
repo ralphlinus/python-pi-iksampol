@@ -1,2 +1,10 @@
+<<<<<<< HEAD
+Ad Astra!
+//Admin comment
+=======
 Linux:Ad Astra!
+<<<<<<< HEAD
 Bafta la munca!
+=======
+>>>>>>> refs/remotes/origin/main
+>>>>>>> refs/remotes/origin/main
