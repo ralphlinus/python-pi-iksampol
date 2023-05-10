@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Ad Astra!
 //Admin comment
+=======
+Linux:Ad Astra!
+>>>>>>> refs/remotes/origin/main
